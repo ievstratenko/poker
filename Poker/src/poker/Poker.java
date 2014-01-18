@@ -12,7 +12,7 @@ public class Poker {
 
   private static final ResultCalculatorTest rct = ResultCalculatorTest.getInstance();
   static final int REPETITIONS = 300000;
-  static final int PLAYERS_COUNT = 2;
+  static final int PLAYERS_COUNT = 4;
   static final String[] myCardsCodes = {"D7", "D8"};
   static final Collection<Card> myCards = new HashSet<>();
 
